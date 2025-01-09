@@ -1,6 +1,6 @@
-package com.al.fashion_forecaster.repositories;
+package com.al.fashion_forecaster.repository;
 
-import com.al.fashion_forecaster.models.Tweet;
+import com.al.fashion_forecaster.model.Tweet;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
